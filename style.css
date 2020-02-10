@@ -1,6 +1,7 @@
 body {
-    background-color: #EEE;
-    font-family: 'Sarabun',Helvetica, Arial, sans-serif;
+    background-color: #EEE.
+;
+    font-family: 'Times New Roman',Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -21,7 +22,7 @@ h1, h2, h3  {
 }
 
 #header {
-    background-color: #18453B;
+    background-color: #FF5733;
     color: white;
     text-align: center;
     padding: 10px;
@@ -79,4 +80,22 @@ h1, h2, h3  {
   font-weight: lighter;
   color: black;
   text-align: left;
+}
+
+table {
+  border-spacing: 5px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+a {
+  color: #2c87f0;
+}
+a:visited {
+  color: #636;
+}
+a:hover, a:active, a:focus {
+  color:#c33;
 }

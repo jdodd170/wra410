@@ -12,11 +12,20 @@ Revise the following section in your README.md file with a short description of 
 
 1. Make changes to the background color of a page and a div.
 
+# Changed the background color of the header to FF5733
+
 2. Use a new font.
+
+# Changed Font to Times New Roman
 
 3. Include two images.
 
+# Added an image on the Assignments page
+# Added an image on the Groups page
+
 4. Use a table to format the Grading Scale on the Assignments page.
+
+# Put grading scale into a table format on the Assignments page
 
 5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.  
 
@@ -27,7 +36,7 @@ Revise the following section in your README.md file with a short description of 
 
 ## Grading Criteria
 
-* 100-90 points: You accomplish all of the required changes and you include some new html/css commands and/or your design does an especially good job of meeting the needs of your audience (students in this course). 
+* 100-90 points: You accomplish all of the required changes and you include some new html/css commands and/or your design does an especially good job of meeting the needs of your audience (students in this course).
 
 * 89-80 points: You accomplish all of the required changes.
 
