@@ -13,6 +13,7 @@ Revise the following section in your README.md file with a short description of 
 1. Make changes to the background color of a page and a div.
 
 # Changed the background color of the header to FF5733
+# Changed the background color of the footer to 4933FF
 
 2. Use a new font.
 
@@ -30,6 +31,8 @@ Revise the following section in your README.md file with a short description of 
 5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.  
 
 6. Add navgation to the Schedule webpage.
+
+# Added navigation to the schedule page
 
 7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
 

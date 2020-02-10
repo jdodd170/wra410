@@ -59,7 +59,7 @@ h1, h2, h3  {
   margin: 20px;
   border: 20px;
   padding: 10px;
-  background-color:  #d3d3d3;
+  background-color:  #BBBAC3;
   color: black;
   text-align: left;
 }
@@ -67,7 +67,7 @@ h1, h2, h3  {
 #footer {
   clear: both;
   padding: 10px;
-  background-color: #97a2a2;
+  background-color: #4933FF;
   color: white;
   text-align: right;
 }
